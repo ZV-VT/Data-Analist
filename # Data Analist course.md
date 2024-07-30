@@ -106,7 +106,7 @@ De letters kun je handmatig vervangen met 0, door op die cellen een 0 achter te 
 
 Als dit allemaal gelukt is dan zijn er alleen getallen te zien in het bestand.
 <br>
-![foto van Opgeschoonde Excel bestand](/images/Schone-data.png)
+![foto van Opgeschoonde Excel bestand](./images/Schone-data.png)
 
 #### Verder in Tableau
 
@@ -168,7 +168,7 @@ Nu alle gewenste data verzameld en gevisualiseerd is, gaan wij de resultaten org
 - pas de grootte van het werkveld aan
   <br>
 
-![](.images/size%20editing%20.png)
+![](./images/size%20editing%20.png)
 
 - Als alles past op het dashboard sleep 'text' vanuit het kopje 'object linksonder van het programma naar een plek op het dashboard om
   <br>
