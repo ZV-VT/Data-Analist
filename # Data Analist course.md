@@ -123,8 +123,8 @@ Welke 3 buurten/ wijken in Utrecht komen in de top 3 voor m.b.t. geregistreerde 
 <br>
 
 Druk op de link voor de instructie voor het **organiseren** en **visualiseren** van de data
+[!][(Link naar demo voor vraag 1](./images/demo%20vraag%201.mp4)
 
-https://youtu.be/8gyr8cOPOt4
 
 **Als de stappen goed zijn uitgevoerd heb je de volgende uitkomsten:**
 
@@ -137,22 +137,25 @@ https://youtu.be/8gyr8cOPOt4
 Bij deze vraag is het de bedoeling dat de data _georganiseerd_ en _gestructureerd_ wordt om zo het gewenste antwoord te krijgen.
 Wat voor soort criminaliteit wordt het meest gepleegd in een van de buurten van de Binnenstad van Utrecht en welke buurt is dat?
 
-Bekijk de volgende demo: https://youtu.be/YP81_8YL2b4
+Zie de link voor de demo van deze vraag hieronder:
+[!][(Link naar demo voor vraag 2](./images/demo%20vraag%202.mp4)
+
 
 **Tip**: houdt de 'Shift" toets ingedrukt om meerdere Measure names te selecteren!
-
-![](./images/demo%20vraag%202%20resultaat.png)
+<br>
 
 **Vraag 3**
 Bij deze vraag gaan wij de data _analyseren_ op basis van een goede organisatie van de data. Wanneer deze in orde is, wordt het analyseren van de data makkelijk!
 Wat voor soort criminaliteit wordt in de verschillende wijken van Utrecht het meest gepleegd?
 
+<br>
 **Vraag 4**
 Hoe hoog is de woninginbraak in Springweg en omgeving?
 
 Zie de demo als je er niet uitkomt, het gaat erom dat jij weet hoe jij je antwoord kan onderbouwen met visuele data, door de data eerst te _organiseren_ en dan te _visualiseren_.
 
-Zie de link: https://youtu.be/iAwx2NF0u7A
+Zie de link voor de demo van deze vraag hieronder:
+[!][(Link naar de demo voor vraag 4](./images/demo%20vraag%204.mp4)
 
 ### Structureren en Organiseren
 
@@ -195,3 +198,9 @@ Als alles goed gegaan is, kan je het bestand terug vinden als een ppt bestand.
 Als je in een werk sheet 'ctr + a' drukt selecteer je alles daarbinnen in en door met je rechter muis te klikken op een gegeven binnen een diagram en te klikken op mark as label en daarna 'always show', dan worden de resultaten in nummer vorm weergegeven bij de diagrammen. Het ziet er alas volgt uit:
 
 ![](./images/results.png)
+
+
+
+
+
+
