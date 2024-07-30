@@ -87,15 +87,15 @@ download dan de 'Tableau Desktopen voltooi de stappen om verder te kunnen werken
 
 Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden wij met behulp van het internet, gegevens verzameld. Echter was de data al opgeschoond en konden wij de data visualiseren met behulp van de site van cbr zelf. Vanaf nu gaan wij de data zelf opschonen, organiseren, structureren en visualisren, met als doel om de gewenste resultaten in de vorm van een rapport weer te geven. Om dit alles te realiseren gaan wij de data eerst **opschonen** door de gegevens die niet gebruikt kunnen worden te verwijderen.
 
-Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-Analyst/tree/main
+Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
 <br>
-Als je de site bereikt hebt klikt dan op het volgende dat is aangegeven met oranje:![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](.)
+Als je de site bereikt hebt klikt dan op het volgende dat is aangegeven met oranje:![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
 door daarop te klikken download je de data.
 
 <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven.
 
-![foto van Opgeschoonde Excel bestand](./images/Vuile-Data.png)
+![foto van Opgeschoonde Excel bestand](./images/schone-data.png)
 
 <br>Met de letters en lege cellen kan je niet zo heel veel, dus moet dat verwijderd worden. Dat kan makkelijk door gebruik te maken van 'ctr + h', je krijgt dan het volgende te zien op het beeldscherm:
 
@@ -106,7 +106,7 @@ De letters kun je handmatig vervangen met 0, door op die cellen een 0 achter te 
 
 Als dit allemaal gelukt is dan zijn er alleen getallen te zien in het bestand.
 <br>
-![foto van Opgeschoonde Excel bestand](./images/Schone-data.png)
+![foto van Opgeschoonde Excel bestand](./images/schone-data.png)
 
 #### Verder in Tableau
 
