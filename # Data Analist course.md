@@ -88,12 +88,10 @@ download dan de 'Tableau Desktop en voltooi de stappen om verder te kunnen werke
 Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden wij met behulp van het internet gegevens verzameld. Echter was de data al opgeschoond en konden wij de data visualiseren met behulp van de site van cbr zelf. Vanaf nu gaan wij de data zelf **opschonen, organiseren, structureren en visualiseren**. Dit met als doel om de gewenste resultaten in de vorm van een rapport weer te geven. Om dit alles te realiseren gaan wij de data eerst **opschonen** door de gegevens die niet gebruikt kunnen worden te verwijderen.
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
-<br>
+<br> 
 Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranje. Door daarop te klikken download je de data: ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
-<br>
-
-<br>
-De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven.
+<br> <br>
+De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven. <br> <br>
 
 ![foto van Opgeschoonde Excel bestand](./images/schone-data.png)
 
@@ -110,10 +108,9 @@ Als dit allemaal gelukt is dan zijn er alleen getallen te zien in het bestand.
 
 #### Verder in Tableau
 
-Open Tableau Desktop: ![foto stap 1 in tableau](./images/stap1-tableau.png)
-en klik op 'Microsoft Excel' om de data te downloaden die wij gaan gebruiken voor de opdrachten.
-<br>
-Als dat gelukt is zie jij het volgende: ![foto stap 2 in tableau](./images/stap2-tableau.png)
+Open Tableau Desktop en klik op 'Microsoft Excel' om de data te downloaden die wij gaan gebruiken voor de opdrachten.: <br> ![foto stap 1 in tableau](./images/stap1-tableau.png)
+<br><br>
+Als dat gelukt is zie jij het volgende: <br> ![foto stap 2 in tableau](./images/stap2-tableau.png)
 
 #### Organiseren, Visualiseren en Structureren
 
@@ -139,9 +136,9 @@ Wat voor soort criminaliteit wordt het meest gepleegd in een van de buurten van 
 
 Bekijk de volgende demo: https://youtu.be/YP81_8YL2b4
 
-**Tip**: houdt de 'Shift" toets ingedrukt om meerdere Measure names te selecteren!
+**Tip**: houdt de 'Shift" toets ingedrukt om meerdere Measure names te selecteren! <br>
 
-![](./images/demo%20vraag%202%20resultaat.png)
+![](./images/demo%20vraag%202%20resultaat.png) <br>
 
 **Vraag 3**
 Bij deze vraag gaan wij de data _analyseren_ op basis van een goede organisatie van de data. Wanneer deze in orde is, wordt het analyseren van de data makkelijk!
@@ -158,20 +155,19 @@ Zie de link: https://youtu.be/iAwx2NF0u7A
 
 Nu alle gewenste data verzameld en gevisualiseerd is, gaan wij de resultaten organiseren en structuren. Dat gaan wij als volgt doen:
 <br>
-<br>
 
-- maak een nieuwe dashboard aan, door op het volgende icoontje te klikken ![foto van icoon waarop geklikt moet worden](./images/dashboard.png)
+- Maak een nieuwe dashboard aan, door op het volgende icoontje te klikken ![foto van icoon waarop geklikt moet worden](./images/dashboard.png)
   <br>
-- sleep de sheets die aangemaakt waren per opdracht naar het dashboard en verdeel ze waardoor je alle diagrammen op het dashboard kan zien.
+- Sleep de sheets die aangemaakt waren per opdracht naar het dashboard en verdeel ze waardoor je alle diagrammen op het dashboard kan zien.
   <br>
-- hernoem de werk sheets naar hun respectievelijke vraag, door te dubbel klikken op de werksheet die jij wil aanpassen en de titel van de sheet aan te passen naar de deelopdracht of een antwoord van een deelopdracht.
-- pas de grootte van het werkveld aan
-  <br>
+- Hernoem de werk sheets naar hun respectievelijke vraag, door te dubbel klikken op de werksheet die jij wil aanpassen en de titel van de sheet aan te passen naar de deelopdracht of een antwoord van een deelopdracht.
+- Pas de grootte van het werkveld aan
+  <br> <br>
 
 ![](./images/size%20editing%20.png)
 
 - Als alles past op het dashboard sleep 'text' vanuit het kopje 'object linksonder van het programma naar een plek op het dashboard om
-  <br>
+  <br> <br>
 
 ![](./images/text-object.png)
 
@@ -182,16 +178,16 @@ Als alles gelukt is ziet het er ongeveer zo uit:
 
 Nu alles verzameld en geordendend is, gaan wij alles exporteren in de vorm van een presentatie.
 
-- klik op file links boven in het programma
-- lik daarna op export As Powerpoint
+- Klik op file links boven in het programma
+- Klik daarna op export As Powerpoint
 - en sla het bestand op zodat je de gegevens later kan terug zien.
 
-Als alles goed gegaan is, kan je het bestand terug vinden als een ppt bestand.
+Als alles goed gegaan is, kan je het bestand terug vinden als een ppt bestand. 
 
 ![alt text](./images/ppt.png)
 
 #### Tip
 
-Als je in een werk sheet 'ctr + a' drukt selecteer je alles daarbinnen in en door met je rechter muis te klikken op een gegeven binnen een diagram en te klikken op mark as label en daarna 'always show', dan worden de resultaten in nummer vorm weergegeven bij de diagrammen. Het ziet er alas volgt uit:
+Als je in een werk sheet 'ctr + a' drukt selecteer je alles daar binnenin. Door met je rechter muis te klikken op een gegeven binnen een diagram en te klikken op mark as label en daarna 'always show', dan worden de resultaten in nummer vorm weergegeven bij de diagrammen. Het ziet er als volgt uit:
 
 ![](./images/results.png)
