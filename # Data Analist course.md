@@ -75,11 +75,12 @@ Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden op de
 
 ![foto stap 2](./images/stap2.png)
 
-- Stap 3: Scroll naar beneden totdat je drie download opties krijgt.
+- Stap 3: Scroll naar beneden totdat je drie download opties krijgt. Download dan de 'Tableau Desktop en voltooi de stappen om verder te kunnen werken in Tableau.
+  Als het niet gelukt is bekijk het fimlpje in de volgende link voor het downloaden: https://www.youtube.com/watch?v=QZ-CyA6cBsQ
 
 ![foto stap 3](./images/stap3.png)
 
-download dan de 'Tableau Desktop en voltooi de stappen om verder te kunnen werken in Tableau. - Als het niet gelukt is bekijk het fimlpje in de volgende link voor het downloaden: https://www.youtube.com/watch?v=QZ-CyA6cBsQ
+
 
 ## Werken in Tableau
 
