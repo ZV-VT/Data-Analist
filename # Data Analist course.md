@@ -68,7 +68,7 @@ Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden op de
 
 ## Tableau downloaden
 
-- Stap 1: kopieer en plak de volgende link in jouw browser of doe "ctrl + linkermuisklik" op de link om de site te bezoeken waar wij Tableau gaan downloaden.
+- Stap 1: Kopieer en plak de volgende link in jouw browser of doe "ctrl + linkermuisklik" op de link om de site te bezoeken waar wij Tableau gaan downloaden.
   https://www.tableau.com/products/trial
 
 - Stap 2: Je bent dan op de volgende pagina (zie afbeelding hieronder). Scroll naar beneden totdat je drie download opties krijgt.
@@ -89,8 +89,8 @@ Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden 
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
 <br>
-Als je de site bereikt hebt klikt dan op het volgende dat is aangegeven met oranje:![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
-door daarop te klikken download je de data.
+Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranje. Door daarop te klikken download je de data: ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
+<br>
 
 <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven.
