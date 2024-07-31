@@ -6,7 +6,7 @@ Data-analyse is het grondig en zorgvuldig bekijken en interpreteren van gegevens
 
 ## Search engine
 
-kopieer en plak de volgende link jouw browser of doe "ctrl + linkermuisklik" op de link en beantwoord de volgende onderzoeksvragen in een kort rapport: https://www.cbs.nl/nl-nl/visualisaties/politie/dashboard-misdrijven-in-de-buurt/maandcijfers
+Kopieer en plak de volgende link jouw browser of doe "ctrl + linkermuisklik" op de link en beantwoord de volgende onderzoeksvragen in een kort rapport: https://www.cbs.nl/nl-nl/visualisaties/politie/dashboard-misdrijven-in-de-buurt/maandcijfers
 
 ## **Vraag 1**
 
