@@ -1,6 +1,6 @@
 # Data Analist course 1
 
-Via het internet ga jij een data-analyse doen naar de criminaliteit in een bepaalde wijk/gebied van een stad. Bij het verzamelen en verwerken van data kunnen gewenste resultaten verzameld worden om vraagstukken op te lossen. In dit geval zouden de resultaten die komen uit het rapport, dat **jij** gaat maken, gebruikt kunnen worden om de criminaliteit te verminderen met behulp van maatregelen.
+Via het internet ga jij een data-analyse doen naar de criminaliteit in een bepaalde wijk/gebied van een stad. Bij het verzamelen en verwerken van data kunnen gewenste resultaten verzameld worden om vraagstukken op te lossen. In dit geval kunnen de resultaten die komen uit het rapport, dat **jij** gaat maken, gebruikt worden om de criminaliteit te verminderen met behulp van maatregelen.
 
 Data-analyse is het grondig en zorgvuldig bekijken en interpreteren van gegevens die via een onderzoek zijn verzameld. Uit de data-analyse komen vervolgens resultaten naar voren waarmee je de onderzoeksvragen goed kan beantwoorden
 
