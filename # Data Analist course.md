@@ -6,7 +6,7 @@ Data-analyse is het grondig en zorgvuldig bekijken en interpreteren van gegevens
 
 ## Search engine
 
-Kopieer en plak de volgende link jouw browser of doe "ctrl + linkermuisklik" op de link en beantwoord de volgende onderzoeksvragen in een kort rapport: https://www.cbs.nl/nl-nl/visualisaties/politie/dashboard-misdrijven-in-de-buurt/maandcijfers
+Kopieer en plak de volgende link je browser of doe "ctrl + linkermuisklik" op de link. Vervolgens beantwoord de volgende onderzoeksvragen in een kort rapport: https://www.cbs.nl/nl-nl/visualisaties/politie/dashboard-misdrijven-in-de-buurt/maandcijfers
 
 ## **Vraag 1**
 
@@ -21,7 +21,7 @@ We gaan de bepalen in welke drie wijken van Utrecht de meeste criminaliteit word
 ![foto-van-startpagina](./images/se2.png)
 
 **In de afbeelding is een overzicht te zien van de gemeente Utrecht.**
-Onder de kaart van gemeente utrecht is er nog een kaart dat meer ingezoomd is op de gemeente, er wordet daar echt gekeken per wijk. Scroll naar dat gedeelte van de pagina en vindt de top 3 wijken met de hoogste criminaliteit door of met de muis te bewegen over de verschillende stadsdelen(het aantal criminele activiteiten wordt rechtsboven weergegeven),
+Onder de kaart van gemeente Utrecht is er nog een kaart dat meer ingezoomd is op de gemeente, er wordt daar echt gekeken per wijk. Scroll naar dat gedeelte van de pagina en vindt de top 3 wijken met de hoogste criminaliteit door of met de muis te bewegen over de verschillende stadsdelen (het aantal criminele activiteiten wordt rechtsboven weergegeven),
 
 ![afbeelding-dashboard-utrecht](./images/se3.png)
 
@@ -35,20 +35,20 @@ Als dit allemaal gelukt is ben je nu instaat om data te filteren op gemeente en 
 
 Wat voor soort criminaliteit wordt het meest gepleegd in een van de buurten van de Binnenstad van Utrecht en welke buurt is dat?
 
-Binnen dezelfde wijken gaan wij nu kijken naar het soort misdrijf het meest gepleegd wordt. Dat doen we door gebruik te maken van de filter dat onder 'Kies een soort misdrijf' is weergegeven. Zie dat hieronder op de afbeelding weergegeven.
+Binnen dezelfde wijken gaan wij nu kijken naar het soort misdrijf dat het meest wordt gepleegd. Dat doen we door gebruik te maken van de filter dat onder 'Kies een soort misdrijf' is weergegeven. Zie dat hieronder op de afbeelding weergegeven.
 
 ![afbeelding-misdrijf-filter](./images/se5.png)
 
-Op deze manier kan jij filteren op misdrijf, echter zijn we er nog niet. Wij moeten namelijk ook filteren op de gemeente en op wijk en dat doen wij als volgt:
+Op deze manier kan jij filteren op misdrijf, echter zijn we er nog niet. Wij moeten namelijk ook filteren op de gemeente en op de wijk en dat doen wij als volgt:
 
 Zet de filter voor de gemeente op Utrecht door dat te selecteren uit de lijst.
-In de afbeelding hieronder wordt er laten zien waar er geklikt moet worden om uiteindelijk Utrecht als te krijgen als uitkomst.
+In de afbeelding hieronder laten we zien waar er geklikt moet worden om uiteindelijk Utrecht als uitkomst te krijgen.
 ![afbeelding-filter-gemeente](./images/se2.png)
 
 De filter voor buurten staat waarschijnlijk op 'Wijk 01 West' echter gaan wij filteren binnen de buurt 'Binnenstad'. Zet de filter op 'Wijk 06 binnenstad'
 ![afbeelding-filter-wijk](./images/se6.png)
 
-Nu de selectie voor de klopt voor de gemeente en wijk, kan er achterhaald worden welk misdrijf in aantallen het meeste voorkomt binnen een buurt.
+Nu de selectie klopt voor de gemeente en wijk, kan er achterhaald worden welk misdrijf in aantallen het meeste voorkomt binnen een buurt.
 
 Nu kan je ook gegevens filteren op basis van een paar randvoorwaarden!
 
@@ -56,15 +56,15 @@ Nu kan je ook gegevens filteren op basis van een paar randvoorwaarden!
 
 Wat voor soort criminaliteit wordt in de verschillende wijken van Utrecht het meest gepleegd?
 
-Op de manier van zo net is de uitkomst te achterhalen voor dit vraagstuk.
+De uitkomst is te achterhalen op basis van wat je bij vraag 2 hebt geleerd. 
 
 ## **Vraag 4**
 
 Hoe hoog is de woninginbraak in Springweg en omgeving?
 
-Op de manier van zo net is de uitkomst te achterhalen voor dit vraagstuk.
+De uitkomst is te achterhalen op basis van wat je bij vraag 2 en 3 hebt geleerd. 
 
-Zo net zocht jij via het internet naar antwoorden voor de vraagstukken, wat als het goed is wel moeiteloos verliep. Echter bij complexere problemen, is het makkelijker om de gegevens anders te bewerken. Dat gaan wij nu doen, want wij gaan nu namelijk werken in Tableau(een programma om data te bewerken en beheren )!
+Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden voor op de vragen. Dat verliep vrij moeiteloos. Echter bij complexere problemen, is het makkelijker om de gegevens anders te bewerken. Dat gaan wij nu doen, want wij gaan nu namelijk werken in Tableau (een programma om data te bewerken en beheren)!
 
 ## Tableau downloaden
 
