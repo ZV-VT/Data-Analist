@@ -64,14 +64,14 @@ Hoe hoog is de woninginbraak in Springweg en omgeving?
 
 De uitkomst is te achterhalen op basis van wat je bij vraag 2 en 3 hebt geleerd. 
 
-Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden voor op de vragen. Dat verliep vrij moeiteloos. Echter bij complexere problemen, is het makkelijker om de gegevens anders te bewerken. Dat gaan wij nu doen, want wij gaan nu namelijk werken in Tableau (een programma om data te bewerken en beheren)!
+Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden op de vragen. Dat verliep vrij moeiteloos. Echter bij complexere problemen, is het makkelijker om de gegevens anders te bewerken. Dat gaan wij nu doen, want wij gaan nu namelijk werken in Tableau (een programma om data te bewerken en beheren)!
 
 ## Tableau downloaden
 
-- Stap 1: kopieer en plak de volgende link jouw browser of doe "ctrl + linkermuisklik" op de link, om de site te bezoeken waar wij tableau gaan downloaden.
+- Stap 1: kopieer en plak de volgende link in jouw browser of doe "ctrl + linkermuisklik" op de link om de site te bezoeken waar wij Tableau gaan downloaden.
   https://www.tableau.com/products/trial
 
-- Stap 2:Je bent dan op de volgende pagina(zie afbeelding hieronder). Scroll naar beneden totdat je drie download opties krijgt.
+- Stap 2: Je bent dan op de volgende pagina (zie afbeelding hieronder). Scroll naar beneden totdat je drie download opties krijgt.
 
 ![foto stap 2](./images/stap2.png)
 
@@ -79,13 +79,13 @@ Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden voor 
 
 ![foto stap 3](./images/stap3.png)
 
-download dan de 'Tableau Desktopen voltooi de stappen om verder te kunnen werken in Tableau. - Als het niet gelukt is bekijk het fimlpje in de volgende link voor het downloaden: https://www.youtube.com/watch?v=QZ-CyA6cBsQ
+download dan de 'Tableau Desktop en voltooi de stappen om verder te kunnen werken in Tableau. - Als het niet gelukt is bekijk het fimlpje in de volgende link voor het downloaden: https://www.youtube.com/watch?v=QZ-CyA6cBsQ
 
 ## Werken in Tableau
 
 #### Opschonen
 
-Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden wij met behulp van het internet, gegevens verzameld. Echter was de data al opgeschoond en konden wij de data visualiseren met behulp van de site van cbr zelf. Vanaf nu gaan wij de data zelf opschonen, organiseren, structureren en visualisren, met als doel om de gewenste resultaten in de vorm van een rapport weer te geven. Om dit alles te realiseren gaan wij de data eerst **opschonen** door de gegevens die niet gebruikt kunnen worden te verwijderen.
+Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden wij met behulp van het internet gegevens verzameld. Echter was de data al opgeschoond en konden wij de data visualiseren met behulp van de site van cbr zelf. Vanaf nu gaan wij de data zelf **opschonen, organiseren, structureren en visualiseren**. Dit met als doel om de gewenste resultaten in de vorm van een rapport weer te geven. Om dit alles te realiseren gaan wij de data eerst **opschonen** door de gegevens die niet gebruikt kunnen worden te verwijderen.
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
 <br>
