@@ -90,7 +90,7 @@ Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden 
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
 <br> 
-Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranje. Door daarop te klikken download je de data: <br><br> ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
+Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranje. Door daarop te klikken download je de data: <br> ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
 <br> <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven. <br> <br>
 
