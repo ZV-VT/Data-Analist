@@ -94,7 +94,7 @@ Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranj
 <br> <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven. <br> <br>
 
-![foto van Opgeschoonde Excel bestand](./images/schone-data.png)
+![foto van Opgeschoonde Excel bestand](./images/Vuile-Data.png)
 
 <br>Met de letters en lege cellen kan je niet zo heel veel, dus moet dat verwijderd worden. Dat kan makkelijk door gebruik te maken van 'ctr + h', je krijgt dan het volgende te zien op het beeldscherm:
 
