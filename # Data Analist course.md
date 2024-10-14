@@ -100,7 +100,8 @@ De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, leg
 
 ![ctrl h optie](./images/ctrlh.png)
 laat het veld achter 'Zoeken naar: ' leeg en vul een '0' achter het veld 'Vervangen door: '. Als je dat gedaan hebt klik dan op 'Alles vervangen'. Door dit te doen worden alle legen velden vervangen met een 0.
-De letters kun je handmatig vervangen met 0, door op die cellen een 0 achter te laten.
+De letters kun je handmatig vervangen met 0, door op die cellen een 0 achter te laten. Of net als bij de lege cellen met de vervang optie. Maak dan weer gebruik van de volgende sneltoetsen ' ctr + h' en vink het volgende aan dat hieronder is weergegeven in de afbeelding.
+![ctrl h optie](./images/vinkie.png)
 <br>
 
 Als dit allemaal gelukt is dan zijn er alleen getallen te zien in het bestand.
