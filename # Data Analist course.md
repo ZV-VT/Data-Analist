@@ -90,7 +90,16 @@ Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden 
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
 <br> 
-Als je de site bereikt hebt klik dan op het volgende dat is aangegeven met oranje. Door daarop te klikken download je de data: <br> <br> ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/github-data.png)
+Als je de site bereikt zijn er een aantal bestanden onder elkaar weergegeven. Met oranje in de afbeelding onderin is een bestand met vuile data weergegeven, die heb jij nodig voor de volgende opdrachten. 
+<br>
+ ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/git-vuiledata.png)
+Als je daar op klikt kom je bij de volgende afbeelding:
+<br>
+ ![foto van github pagina waar de gebruiker vuile data kan downloaden](./images/view-raw.png)
+ Door te klikken op 'View raw', wordt het juite bestand met vuile data gedownload.
+ Daarnaast ijn er ook nog andere bestanden, 'CBS- Utrecht-binnenstad opgeschoond.xlsx' en 'MOCK_DATA (2).xlsx'.  'CBS- Utrecht-binnenstad opgeschoond.xlsx' is de opgeschoonde versie van het bestand dat jij zojuist hebt gedownload als de stappen goed uitgevoerd zijn.
+ <br>
+ 'MOCK_DATA (2).xlsx', is voor degene die meer willen oefenen binnen tableau. Die data kan gedownload worden als de huidige opdracht af is.
 <br> <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven. <br> <br>
 
