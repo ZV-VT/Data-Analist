@@ -89,7 +89,7 @@ Bij de voorgaande opdrachten zocht jij via het internet naar de antwoorden op de
 Nu het programma gedownload is, gaan wij hier verder in werken. Hiervoor hadden wij met behulp van het internet gegevens verzameld. Echter was de data al opgeschoond en konden wij de data visualiseren met behulp van de site van cbr zelf. Vanaf nu gaan wij de data zelf **opschonen, organiseren, structureren en visualiseren**. Dit met als doel om de gewenste resultaten in de vorm van een rapport weer te geven. Om dit alles te realiseren gaan wij de data eerst **opschonen** door de gegevens die niet gebruikt kunnen worden te verwijderen.
 
 Via de site van CBS konden we met gebruik van filters de gewenste data opzoeken. Voordat wij Tableau openen is de data eerst nodig. Die halen wij van de volgende site: https://github.com/ZV-VT/Data-analist
-<br> 
+<br><br> 
 Als je de site bereikt zijn er een aantal bestanden onder elkaar weergegeven. Met oranje in de afbeelding onderin is een bestand met vuile data weergegeven, die heb jij nodig voor de volgende opdrachten. 
 <br>
  ![foto van git pagina waar alle bruikbare bestanden staan voor de gebruikers](./images/git-vuiledata.png)
@@ -97,9 +97,11 @@ Als je daar op klikt kom je bij de volgende afbeelding:
 <br>
  ![foto van github pagina waar de gebruiker vuile data kan downloaden](./images/view-raw.png)
  Door te klikken op 'View raw', wordt het juite bestand met vuile data gedownload.
- Daarnaast ijn er ook nog andere bestanden, 'CBS- Utrecht-binnenstad opgeschoond.xlsx' en 'MOCK_DATA (2).xlsx'.  'CBS- Utrecht-binnenstad opgeschoond.xlsx' is de opgeschoonde versie van het bestand dat jij zojuist hebt gedownload als de stappen goed uitgevoerd zijn.
+ <br><br><br>
+ Daarnaast zijn er ook nog andere bestanden, 'CBS- Utrecht-binnenstad opgeschoond.xlsx' en 'MOCK_DATA (2).xlsx'.  'CBS- Utrecht-binnenstad opgeschoond.xlsx' is de opgeschoonde versie van het bestand dat jij zojuist hebt gedownload als de stappen goed uitgevoerd zijn.
  <br>
- 'MOCK_DATA (2).xlsx', is voor degene die meer willen oefenen binnen tableau. Die data kan gedownload worden als de huidige opdracht af is.
+ <br>
+ 'MOCK_DATA (2).xlsx', is een ander bestand met vuile data dat gebruikt kan worden om meer te oefenen binnen tableau. Die data moet dan op dezelfde manier gedownload worden als de vuile data data van cbs(CBS- Utrecht-binnenstad vuil.xlsx). 
 <br> <br>
 De gegevens staan in het Excel bestand, zoals je kunt zien zijn er getallen, lege cellen en cellen met letters in het bestand weergegeven. <br> <br>
 
