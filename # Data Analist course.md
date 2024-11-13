@@ -96,7 +96,7 @@ Als je de site bereikt zijn er een aantal bestanden onder elkaar weergegeven. Me
 Als je daar op klikt kom je bij de volgende afbeelding:
 <br>
  ![foto van github pagina waar de gebruiker vuile data kan downloaden](./images/view-raw.png)
- Door te klikken op 'View raw', wordt het juite bestand met vuile data gedownload.
+ Door te klikken op 'View raw' of rechts te klikken op het "anker" download teken, wordt het juiste bestand met vuile data gedownload.
  <br><br><br>
  Daarnaast zijn er ook nog andere bestanden, 'CBS- Utrecht-binnenstad opgeschoond.xlsx' en 'MOCK_DATA (2).xlsx'.  'CBS- Utrecht-binnenstad opgeschoond.xlsx' is de opgeschoonde versie van het bestand dat jij zojuist hebt gedownload als de stappen goed uitgevoerd zijn.
  <br>
