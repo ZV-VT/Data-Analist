@@ -17,6 +17,7 @@ Als je op de website bent van het cbs zie je het volgende:
 ![foto-van-startpagina](./images/se1.png)
 
 We gaan de bepalen in welke drie wijken van Utrecht de meeste criminaliteit wordt geregistreerd. Dat doen wij door 'Utrecht' te selecteren als gemeente uit de lijst of op de kaart.(zie de afbeelding hieronder)
+**Let op** Vergeet niet de filter van de juiste maand te selecteren. De maand waarmee wij werken is maart 2024. Ook kan het zijn dat de gegevens van een bepaalde misdrijf is toegenomen aangezien de site periodiek ge-update wordt.
 
 ![foto-van-startpagina](./images/se2.png)
 
